@@ -11,8 +11,7 @@ The thesis studies the mathematical foundations of diffusion-based generative mo
 
 ## Main contributions
 
-- **Mathematical synthesis.** Present diffusion models, probability flow ODEs and Schrödinger bridges within a common mathematical framework, with detailed derivations and numerical illustrations.
 
-- **Extension of an invariance result.** Identify a gap in the application of a Lie-group invariance proposition to centred protein configurations. Formulate and prove an extension to isometric group actions on Riemannian manifolds, establishing preservation of distributional invariance and score equivariance under explicit assumptions.
+- **Extension of an invariance result, section 4.2.4.** Identify a gap in the application of a Lie-group invariance proposition to centred protein configurations in the original paper "SE(3) diffusion model with application to protein backbone generation" (ICML 2023). Formulate and prove an extension to isometric group actions on Riemannian manifolds, establishing preservation of distributional invariance and score equivariance under explicit assumptions.
 
-- **Critical analysis of financial time-series generation.** Examine the statistical assumptions behind Schrödinger-bridge methods, particularly dependence introduced by overlapping windows, bandwidth sensitivity and evaluation metrics. Discuss potential memorization effects as hypotheses requiring further empirical validation.
+- **Critical analysis of financial time-series generation and alternative proof, sections 4.1.2 and 4.1.3.** Provide an alternative proof of one of the main results of the original paper "Generative modeling for time series via Schrödinger bridge". Examine the statistical assumptions behind Schrödinger-bridge methods, particularly dependence introduced by overlapping windows, bandwidth sensitivity and evaluation metrics. Discuss potential memorization effects as hypotheses requiring further empirical validation.
