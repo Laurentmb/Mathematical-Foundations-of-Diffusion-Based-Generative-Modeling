@@ -2,7 +2,7 @@
 
 This repository contains my Master’s thesis in Applied Mathematics at ETH Zurich and the code used to produce its figures.
 
-The thesis studies the mathematical foundations of diffusion-based generative models, including their connections to Schrödinger bridges, with applications to financial time series and protein backbone generation. It connects the underlying stochastic models with numerical experiments illustrating their behaviour.
+The thesis studies the mathematical foundations of diffusion-based generative models, including their connections to Schrödinger bridges, with applications to financial time series and protein backbone generation. 
 
 ## Contents
 
